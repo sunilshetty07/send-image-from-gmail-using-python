@@ -1,8 +1,8 @@
 # send-image-from-gmail-using-python
 here i have written code for sending gmail using python extension using smtplib 
-requirements:
+-> requirements:
 1) smtplib
-2)active internet connection
+2) active internet connection
 for sender account:
 1) goto your sender gmail account
 2) goto setting
