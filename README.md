@@ -12,4 +12,4 @@ for sender account:
 6) then run the program
 7) at last goto your reciever account 
 8) refresh the app
-tested in spyder IDE
+# tested in spyder IDE
