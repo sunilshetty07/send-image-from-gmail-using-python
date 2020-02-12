@@ -1,15 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 12 15:09:24 2020
-
-@author: dell
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Wed Feb 12 14:15:50 2020
 
-@author: dell
+@author: sunil shetty
 """
 import smtplib
 from email.mime.multipart import MIMEMultipart
